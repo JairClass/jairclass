@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu faço faculdade de Engenharia da Computação
 - 🌱 Estudando front-end 
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/jair777">
