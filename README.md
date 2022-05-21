@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Jair 👋
 
-- 🔭 Hoje eu faço faculdade de Engenharia da Computação
-- 🌱 Estudando front-end 
-- 😄 Pronomes: ele/dele
+- Estudante de Engenharia da Computação
+- Aprendiz de T.I. na Mili S/A
+- Aspirante a Front-End
 
 <div align="center">
   <a href="https://github.com/jair777">
