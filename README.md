@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Jair 👋
 
-- Desenvolvedor Front-end em formação
-- Aprendiz de T.I. na Mili S/A
-- Aspirante a Front-End
+🐱‍👤 Desenvolvedor Front-end em formação
+⚜ Linkedin: https://www.linkedin.com/in/jairwillianclass/
+💬 Como me contatar: j.willianclass02@gmail.com
 
 <div align="center">
   <a href="https://github.com/jair777">
