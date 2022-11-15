@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jair 👋
 
-- Estudante de Engenharia da Computação
+- Desenvolvedor Front-end em formação
 - Aprendiz de T.I. na Mili S/A
 - Aspirante a Front-End
 
