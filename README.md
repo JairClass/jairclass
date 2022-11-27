@@ -29,7 +29,7 @@
   
   
 <div align="center">
-  ![Snake animation](https://github.com/Jair777/Jair777/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jair777/jair777/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   
