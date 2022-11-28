@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/jair-willian-class-0706441a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
 
-  ![Snake animation](https://github.com/Jair777/Jair777/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jairclass/jairclass/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
