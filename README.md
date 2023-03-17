@@ -2,8 +2,6 @@
 <div>
   <p>🐱‍👤 Desenvolvedor Front-end em formação</p>
   <p>📚 Atualmente estou estudando <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b></p>
-  <p>💬 Como me contatar: <a href="mailto:j.willianclass02@gmail.com">j.willianclass02@gmail.com</a></p>
-  <p>➡<a href="https://www.linkedin.com/in/jairwillianclass/">Linkedin</a></p>
 </div>
 <br>
 
