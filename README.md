@@ -1,6 +1,26 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<hr>
 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Jair+Willian+Class;I'm+20+years+old;I'm+from+Curitiba,+PR;I'm+study+Front-end+Engineering+at+EBAC;And+analysis+and+systems+development+at+UniCuritiba;Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Hello,+my+name+is+Jair+Willian+Class!;I'm+20+years+old.;I'm+from+Curitiba,+PR.;I'm+study+Front-end+Engineering+at+EBAC;And+Analysis+and+Systems+Development+at+UniCuritiba.;Welcome!+:%29)](https://git.io/typing-svg)
+ <hr>
+
+
+
+<h1 align="center"> Sobre Mim </h1>
+
+✌️ Hello World!
+
+👨‍💻 Eu me chamo Jair, tenho 20 anos, sou graduando em Análise e Desenvolvimento de Sistemas (Unicuritiba), cursando Engenharia de Front-end (EBAC), Full-Stack Master (Danki Code) e Formação Front-end (Udemy), Inglês (Yazigi) e atualmente trabalhando como Técnico de Suporte ao Usuário de T.I na Mili S/A. No momento se especializando em desenvolvimento Front-end. Aprendendo mais sobre JavaScript, HTML e CSS.
+
+💘 Sou apaixonado por tecnologia desde quando percebi o seu inestimável impacto sobre todos os âmbitos da sociedade moderna, e motivado pela aceleração da transformação digital que a triste pandemia nos trouxe, comecei meus estudos na área de programação em 2021, pois nela enxerguei a forma que eu sempre procurei para contribuir com o avanço da tecnologia e consequentemente, agregar valor à vida das pessoas com o meu trabalho.
+
+⚡ Como consequência dos meus estudos em programação, adquiri habilidades como: raciocínio lógico e criativo, análise crítica, abstração e resolução de problemas e agilidade no aprendizado de tecnologias.
+
+🔰 Entusiasta em Interligências Artificias, Cybersegurança e UX/UI Design.
+
+⚜ Por fim, me considero uma pessoa focada, responsável, assertiva, dedicada e proativa. Estou sempre aberto a novas conexões para compartilhar conhecimento, então sinta-se livre para mandar um olá!
+</br>
 
 
 
@@ -160,7 +180,6 @@
   <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=JairClass&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/> 
   <img width="41%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairClass&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
 <br>
     
   <div align="center">
@@ -178,12 +197,12 @@
 
 
 <h1 align="center"> Atividade </h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JairClass&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição"/>
-
-
-
-</br>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JairClass&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
+</br></br></br>
 <hr/>
+
+
+
 <h1 align="center"> Social </h1>
 <p align="center">
     <a href="https://j.willianclass02@gmail.com"><img <img height="40px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -192,8 +211,6 @@
     <a href="https://www.instagram.com/jairzera7/" target="_blank"><img <img height="40px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </p>
-<br/>
-<hr/>
 
 
 
