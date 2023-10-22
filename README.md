@@ -3,6 +3,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Hello,+my+name+is+Jair+Willian+Class!;I'm+20+years+old.;I'm+from+Curitiba,+PR.;I'm+study+Front-end+Engineering+at+EBAC;And+Analysis+and+Systems+Development+at+UniCuritiba.;Welcome!+:%29)](https://git.io/typing-svg)
+</br>
  <hr>
 
 
@@ -20,8 +21,7 @@
 🔰 Entusiasta em Interligências Artificias, Cybersegurança e UX/UI Design.
 
 ⚜ Por fim, me considero uma pessoa focada, responsável, assertiva, dedicada e proativa. Estou sempre aberto a novas conexões para compartilhar conhecimento, então sinta-se livre para mandar um olá!
-</br>
-
+</br></br></br>
 
 
 <hr/>
@@ -177,7 +177,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
 
 <p align="center">
-  <img width="52%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=JairClass&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/> 
+  <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=JairClass&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/> 
   <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairClass&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
