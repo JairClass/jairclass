@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Jair+Willian+Class;I'm+20+years+old;I'm+from+Curitiba,+PR;I'm+study+Front-end+Engineering+at+EBAC;And+analysis+and+systems+development+at+UniCuritiba;Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -56,6 +56,17 @@
         </sub>
       </a>
     </td>
+  </tr>
+  <td align="center">
+      <a href="https://angular.io/">
+        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="angular icon"/><br/>
+        <sub>
+          <b>
+            <pre>Angular</pre>
+          </b>
+        </sub>
+      </a>
+   </td>    
       <td align="center">
       <a href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br/>
@@ -65,6 +76,7 @@
           </b>
         </sub>
       </a>
+      </td>
       <td align="center">
       <a href="https://react.dev/">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="react icon"/><br/>
@@ -83,16 +95,6 @@
           </b>
         </sub>
       </a>
-       <td align="center">
-      <a href="https://angular.io/">
-        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="angular icon"/><br/>
-        <sub>
-          <b>
-            <pre>Angular</pre>
-          </b>
-        </sub>
-      </a>
-   </td>    
   </tr>
       <td align="center">
       <a href="https://git-scm.com/">
@@ -147,49 +149,60 @@
       </a>
     </td>
 </table>
-
-<br/><br/><br/>
+<br/>
 <hr/>
 
 
 
-<h1 align="center"> Social </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
+
 <p align="center">
-    <a href="https://j.willianclass02@gmail.com"><img <img height="50px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send?phone=5541999205844&text="> <img <img height="50px"src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-    <a href="https://www.linkedin.com/in/jair-willian-class-0706441a1" target="_blank"><img <img height="50px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://www.instagram.com/jairzera7/" target="_blank"><img <img height="50px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=JairClass&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/> 
+  <img width="41%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairClass&layout=compact&langs_count=16&theme=dark"/>
 </div>
-</p>
+
+<br>
+    
+  <div align="center">
+ <a href="https://git.io/streak-stats">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=JairClass&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
+ </a>
 <br/><br/>
-<hr/>
-
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JairClass&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jair Willian Class github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairClass&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JairClass&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+    
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JairClass&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+</br>
+<hr/>
 
+
+
+<h1 align="center"> Atividade </h1>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JairClass&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição"/>
+
+
+
+</br>
+<hr/>
+<h1 align="center"> Social </h1>
+<p align="center">
+    <a href="https://j.willianclass02@gmail.com"><img <img height="40px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://api.whatsapp.com/send?phone=5541999205844&text="> <img <img height="40px"src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="https://www.linkedin.com/in/jair-willian-class-0706441a1" target="_blank"><img <img height="40px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://www.instagram.com/jairzera7/" target="_blank"><img <img height="40px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+</p>
+<br/>
+<hr/>
+
+
+
+<br/><br/><br/><br/>
+ 
+![snake gif](https://github.com/JairClass/JairClass/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JairClass}/count.svg" /></p> 
-<br></div>
-
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
-<h1><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
-
-<p align="center">
- <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=jair.class&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
- </a>
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=JairClass&repo=JairClass&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do JairClass" height="40px" />
+</div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
