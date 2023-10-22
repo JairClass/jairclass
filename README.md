@@ -21,16 +21,11 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: j.wilianclass02@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/jairwillianclass/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    </a>
-    <a href = "https://www.instagram.com/jairzera7/">
-      <img width="25" src="instagram.png">
-    </a>
+ <div> 
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jair-willian-class-0706441a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "https://j.willianclass02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 </div>
   
-![Snake animation](https://github.com/JairClass/JairClass/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jairclass/jairclass/blob/output/github-contribution-grid-snake.svg)
