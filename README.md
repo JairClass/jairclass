@@ -219,6 +219,13 @@
 ![snake gif](https://github.com/JairClass/JairClass/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
+  <h2>🐍 Minhas contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JairClass/JairClass/output/github-contribution-grid-snake-dark.svg" />
+
+
+
+<div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=JairClass&repo=JairClass&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do JairClass" height="40px" />
 </div>
 
