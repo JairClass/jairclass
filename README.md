@@ -211,18 +211,7 @@
     <a href="https://www.instagram.com/jairzera7/" target="_blank"><img <img height="40px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </p>
-
-
-
-<br/><br/><br/><br/>
- 
-![snake gif](https://github.com/JairClass/JairClass/blob/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JairClass/JairClass/output/github-contribution-grid-snake-dark.svg" />
-
+<hr/>
 
 
 <div align="center">
