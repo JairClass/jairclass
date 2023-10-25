@@ -25,7 +25,7 @@
 
 
 <hr/>
-<h1 align="center">Estudando agora</h1>
+<h1 align="center">Estudando Agora</h1>
 <div align="center" >
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
