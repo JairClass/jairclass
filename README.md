@@ -184,12 +184,12 @@
     
   <div align="center">
  <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=JairClass&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=jairclass&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak"/>
  </a>
 <br/><br/>
     
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JairClass&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jairclass&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 </br>
 <hr/>
