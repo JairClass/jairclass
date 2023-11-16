@@ -38,8 +38,9 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 - 0/1 - Intercâmbio
 
 ✉️ Entre em contato, ficarei feliz em responder :)
-- Github: https://github.com/jairclass
 - E-mail: j.willianclass02@gmail.com
+- Linkendin: https://www.linkedin.com/in/jairwillianclass/
+  
 </br></br></br>
 
 
