@@ -2,7 +2,7 @@
 <hr>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Hello,+my+name+is+Jair+Willian+Class!;I'm+20+years+old.;I'm+from+Curitiba,+PR.;I'm+study+Front-end+Engineering+at+EBAC;And+Analysis+and+Systems+Development+at+UniCuritiba.;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Hello,+my+name+is+Jair!;I'm+20+years+old.;I'm+from+Curitiba,+PR.;I'm+study+Front-end+Engineering+at+EBAC;And+Analysis+and+Systems+Development+at+UniCuritiba.;Welcome!+:%29)](https://git.io/typing-svg)
 </br>
  <hr>
 
@@ -12,15 +12,34 @@
 
 ✌️ Hello World!
 
-👨‍💻 Eu me chamo Jair, tenho 20 anos, sou graduando em Análise e Desenvolvimento de Sistemas (Unicuritiba), cursando Engenharia de Front-end (EBAC), Full-Stack Master (Danki Code) e Formação Front-end (Udemy), Inglês (Yazigi) e atualmente trabalhando como Técnico de Suporte ao Usuário de T.I na Mili S/A. No momento se especializando em desenvolvimento Front-end. Aprendendo mais sobre JavaScript, HTML e CSS.
+👥 Sobre Mim:
+Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Front-end em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. Participante da 2ª Edição do programa Santander Coders 2023, também estou cursando Engenharia de Front-end na EBAC, Full-Stack Master na Danki Code e Formação Front-end na Udemy. Além disso, estudo inglês na Yazigi e atuo como Técnico de Suporte ao Usuário de T.I. na Mili S/A.
 
-💘 Sou apaixonado por tecnologia desde quando percebi o seu inestimável impacto sobre todos os âmbitos da sociedade moderna, e motivado pela aceleração da transformação digital que a triste pandemia nos trouxe, comecei meus estudos na área de programação em 2021, pois nela enxerguei a forma que eu sempre procurei para contribuir com o avanço da tecnologia e consequentemente, agregar valor à vida das pessoas com o meu trabalho.
+💘 Apaixonado por tecnologia desde sempre, percebo seu impacto inestimável em todos os aspectos da sociedade moderna. Motivado pela aceleração da transformação digital durante a pandemia, iniciei meus estudos em programação em 2021. Encontrei nela a maneira que sempre procurei para contribuir com o avanço da tecnologia e, consequentemente, agregar valor à vida das pessoas com meu trabalho.
 
-⚡ Como consequência dos meus estudos em programação, adquiri habilidades como: raciocínio lógico e criativo, análise crítica, abstração e resolução de problemas e agilidade no aprendizado de tecnologias.
+📚 Coloco em prática meu conhecimento em projetos e estou ansioso para buscar minha primeira oportunidade no mercado de trabalho na área de Desenvolvimento Front-End. Aprimorando minha proficiência em tecnologias como JavaScript e React.js. Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
 
-🔰 Entusiasta em Interligências Artificias, Cybersegurança e UX/UI Design.
+⭐ Outras Habilidades:
+- Metodologias ágeis (Scrum e Kanban)
+- Conhecimentos em IA
+- Experiência em atividades em equipe e boas habilidades interpessoais
+- Facilidade no atendimento ao usuário e de serviço Help Desk
+- Expertize em instalações de Hardwares e Softwares
+- Habilidades no uso do pacote Office
+- Paixão por aprender e buscar novos conhecimentos
+- Proatividade e busca por sempre resolver os problemas de forma ágil e com qualidade
+- Aplicação de lições aprendidas dos livros: "O Codificador Limpo", "Código Limpo", "Não Me Faça Pensar" e "Princípios do Web Design Maravilhoso"
 
-⚜ Por fim, me considero uma pessoa focada, responsável, assertiva, dedicada e proativa. Estou sempre aberto a novas conexões para compartilhar conhecimento, então sinta-se livre para mandar um olá!
+🚀 Metas:
+- 0/1 - Faculdade
+- 600/1000 - Horas complementares da faculdade
+- 0/5 - Pós-graduações
+- 208/1000 - Cursos
+- 0/1 - Intercâmbio
+
+✉️ Entre em contato, ficarei feliz em responder :)
+- Github: https://github.com/jairclass
+- E-mail: j.willianclass02@gmail.com
 </br></br></br>
 
 
