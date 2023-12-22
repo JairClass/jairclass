@@ -13,11 +13,26 @@
 ✌️ Hello World!
 
 👥 Sobre Mim:
-Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Front-end em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. Participante da 2ª Edição do programa Santander Coders 2023, também estou cursando Engenharia de Front-end na EBAC, Full-Stack Master na Danki Code e Formação Front-end na Udemy. Além disso, estudo inglês na Yazigi e atuo como Técnico de Suporte ao Usuário de T.I. na Mili S/A.
+Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Front-end em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. Participante da 2ª Edição do programa Santander Coders 2023, também estou cursando WordPress e Engenharia de Front-end na EBAC, Full-Stack Master na Danki Code e Formação Front-end na Udemy. Além disso, estudo inglês na Yazigi e atuo como Técnico de Suporte ao Usuário de T.I. na Mili S/A.
 
 💘 Apaixonado por tecnologia desde sempre, percebo seu impacto inestimável em todos os aspectos da sociedade moderna. Motivado pela aceleração da transformação digital durante a pandemia, iniciei meus estudos em programação em 2021. Encontrei nela a maneira que sempre procurei para contribuir com o avanço da tecnologia e, consequentemente, agregar valor à vida das pessoas com meu trabalho.
 
 📚 Coloco em prática meu conhecimento em projetos e estou ansioso para buscar minha primeira oportunidade no mercado de trabalho na área de Desenvolvimento Front-End. Aprimorando minha proficiência em tecnologias como JavaScript e React.js. Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
+
+👨‍💻 Tecnologias que Tenho Conhecimento:
+- HTML e CSS
+- JavaScript
+- Node.js
+- React.js
+- JQuery
+- MySQL
+- SASS
+- Bootstrap
+- WordPress
+- Git e GitHub
+- Designs responsivos
+- Noções de UX/UI
+- Noções básicas de Rede e Cybersegurança
 
 ⭐ Outras Habilidades:
 - Metodologias ágeis (Scrum e Kanban)
@@ -31,15 +46,15 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 - Aplicação de lições aprendidas dos livros: "O Codificador Limpo", "Código Limpo", "Não Me Faça Pensar" e "Princípios do Web Design Maravilhoso"
 
 🚀 Metas:
-- 0/1 - Faculdade
-- 600/1000 - Horas complementares da faculdade
-- 0/5 - Pós-graduações
-- 208/1000 - Cursos
-- 0/1 - Intercâmbio
+> 0/1 - Faculdade
+> 600/1000 - Horas complementares da faculdade
+> 0/5 - Pós-graduações
+> 208/1000 - Cursos
+> 0/1 - Intercâmbio
 
 ✉️ Entre em contato, ficarei feliz em responder :)
 - E-mail: j.willianclass02@gmail.com
-- Linkendin: https://www.linkedin.com/in/jairwillianclass/
+- Github: https://github.com/jairclass
   
 </br></br></br>
 
