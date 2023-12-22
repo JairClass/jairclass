@@ -64,6 +64,7 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 <div align="center" >
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 </div>
 
 
@@ -113,11 +114,11 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
     </td>
   </tr>
   <td align="center">
-      <a href="https://angular.io/">
-        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="angular icon"/><br/>
+      <a href="https://wordpress.io/">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="angular icon"/><br/>
         <sub>
           <b>
-            <pre>Angular</pre>
+            <pre>Wordpress</pre>
           </b>
         </sub>
       </a>
