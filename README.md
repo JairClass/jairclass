@@ -45,17 +45,6 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 - Proatividade e busca por sempre resolver os problemas de forma ágil e com qualidade
 - Aplicação de lições aprendidas dos livros: "O Codificador Limpo", "Código Limpo", "Não Me Faça Pensar" e "Princípios do Web Design Maravilhoso"
 
-🚀 Metas:
-- 0/1 - Faculdade
-- 600/1000 - Horas complementares da faculdade
-- 0/5 - Pós-graduações
-- 208/1000 - Cursos
-- 0/1 - Intercâmbio
-
-✉️ Entre em contato, ficarei feliz em responder :)
-- E-mail: j.willianclass02@gmail.com
-- Github: https://github.com/jairclass
-  
 </br></br></br>
 
 
