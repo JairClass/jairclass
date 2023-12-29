@@ -1,12 +1,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <hr>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Hello,+my+name+is+Jair!;I'm+20+years+old.;I'm+from+Curitiba,+PR.;I'm+study+Front-end+Engineering+at+EBAC;And+Analysis+and+Systems+Development+at+UniCuritiba.;Welcome!+:%29)](https://git.io/typing-svg)
 </br>
  <hr>
-
-
 
 <h1 align="center"> Sobre Mim </h1>
 
@@ -19,43 +16,16 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 
 📚 Coloco em prática meu conhecimento em projetos e estou ansioso para buscar minha primeira oportunidade no mercado de trabalho na área de Desenvolvimento Front-End. Aprimorando minha proficiência em tecnologias como JavaScript e React.js. Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
 
-👨‍💻 Tecnologias que Tenho Conhecimento:
-- HTML e CSS
-- JavaScript
-- Node.js
-- React.js
-- JQuery
-- MySQL
-- SASS
-- Bootstrap
-- WordPress
-- Git e GitHub
-- Designs responsivos
-- Noções de UX/UI
-- Noções básicas de Rede e Cybersegurança
-
-⭐ Outras Habilidades:
-- Metodologias ágeis (Scrum e Kanban)
-- Conhecimentos em IA
-- Experiência em atividades em equipe e boas habilidades interpessoais
-- Facilidade no atendimento ao usuário e de serviço Help Desk
-- Expertize em instalações de Hardwares e Softwares
-- Habilidades no uso do pacote Office
-- Paixão por aprender e buscar novos conhecimentos
-- Proatividade e busca por sempre resolver os problemas de forma ágil e com qualidade
-- Aplicação de lições aprendidas dos livros: "O Codificador Limpo", "Código Limpo", "Não Me Faça Pensar" e "Princípios do Web Design Maravilhoso"
-
-</br></br></br>
+</br>
 
 
 <hr/>
 <h1 align="center">Estudando Agora</h1>
-<div align="center" >
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"></a>
+  <a href="https://react.dev/"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"></a>
+  <a href="https://wordpress.com/pt-br/"> <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"></a>
 </div>
-
 
 
 <h1 align="center"> Minha Stack </h1>
@@ -81,6 +51,16 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
         </sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://figma.com/">
+        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="figma code icon"/><br/>
+        <sub>
+          <b>
+            <pre>Figma</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
      <td align="center">
       <a href="https://getbootstrap.com/">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="CSS3 icon"/><br/>
@@ -91,19 +71,8 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Javascript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <td align="center">
-      <a href="https://wordpress.io/">
+     <td align="center">
+      <a href="https://wordpress.com/pt-br/">
         <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="angular icon"/><br/>
         <sub>
           <b>
@@ -111,7 +80,18 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
           </b>
         </sub>
       </a>
-   </td>    
+   </td>   
+   </tr>
+      <td align="center">
+      <a href="https://jquery.com/">
+        <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="jquery icon"/><br/>
+        <sub>
+          <b>
+            <pre>Jquery</pre>
+          </b>
+        </sub>
+      </a>
+      </td>
       <td align="center">
       <a href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br/>
@@ -122,6 +102,16 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
         </sub>
       </a>
       </td>
+     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
       <td align="center">
       <a href="https://react.dev/">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="react icon"/><br/>
@@ -131,6 +121,7 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
           </b>
         </sub>
       </a>
+    </td>
     <td align="center">
       <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="bash icon"/><br/>
@@ -182,7 +173,6 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
         </sub>
       </a>
     </td>  
-  </tr>
   <td align="center">
       <a href="https://ohmyz.sh/">
         <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
@@ -196,7 +186,6 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 </table>
 <br/>
 <hr/>
-
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
@@ -220,12 +209,10 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 <hr/>
 
 
-
 <h1 align="center"> Atividade </h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JairClass&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
 </br></br></br>
 <hr/>
-
 
 
 <h1 align="center"> Social </h1>
@@ -238,9 +225,7 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 </p>
 <hr/>
 
-
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=JairClass&repo=JairClass&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do JairClass" height="40px" />
 </div>
-
 
