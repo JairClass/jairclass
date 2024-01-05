@@ -225,7 +225,14 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 </p>
 <hr/>
 
+
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=JairClass&repo=JairClass&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do JairClass" height="40px" />
 </div>
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=JairClass" alt="Contador de Visitas" />
+</div>
+
+<p align="center"><ing alingn="center" src="https://profile-counter.glitch.me/JairClass/count.svg" /></p>
 
