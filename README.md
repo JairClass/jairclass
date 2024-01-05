@@ -227,7 +227,7 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 
 
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=JairClass&repo=JairClass&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do JairClass" height="40px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=JairClass&repo=JairClass&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Jair" height="40px" />
 </div>
 
 <div align="center">
