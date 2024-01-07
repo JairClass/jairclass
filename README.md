@@ -52,11 +52,11 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
       </a>
     </td>
       <td align="center">
-      <a href="https://figma.com/">
+      <a href="https://sass-lang.com/">
         <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="figma code icon"/><br/>
         <sub>
           <b>
-            <pre>Figma</pre>
+            <pre>SASS</pre>
           </b>
         </sub>
       </a>
