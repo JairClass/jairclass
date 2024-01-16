@@ -5,6 +5,8 @@
 </br>
  <hr>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <h1 align="center"> Sobre Mim </h1>
 
 ✌️ Hello World!
@@ -15,6 +17,21 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 💘 Apaixonado por tecnologia desde sempre, percebo seu impacto inestimável em todos os aspectos da sociedade moderna. Motivado pela aceleração da transformação digital durante a pandemia, iniciei meus estudos em programação em 2021. Encontrei nela a maneira que sempre procurei para contribuir com o avanço da tecnologia e, consequentemente, agregar valor à vida das pessoas com meu trabalho.
 
 📚 Coloco em prática meu conhecimento em projetos e estou ansioso para buscar minha primeira oportunidade no mercado de trabalho na área de Desenvolvimento Front-End. Aprimorando minha proficiência em tecnologias como JavaScript e React.js. Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://j.willianclass02@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://j.willianclass02@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/jair-willian-class-0706441a1" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jair-willian-class-0706441a1" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5541999205844&text=" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541999205844&text=" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/jairzera7/"" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jairzera7/"" alt="Instagram"/></a>
+</p>
 
 </br>
 
@@ -201,12 +218,7 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
  <img src="https://github-readme-streak-stats.herokuapp.com?user=jairclass&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak"/>
  </a>
 <br/><br/>
-    
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jairclass&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-</br>
-<hr/>
+
 
 
 <h1 align="center"> Atividade </h1>
@@ -225,11 +237,30 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 </p>
 <hr/>
 
-<!-- Contador de Visitas 
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=JairClass&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=JairClass&repo=JairClass&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Jair" height="40px" />
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align-"center"> <ing alingn-"center" src-"https://profile-counter.glitch.me/JairClass/count.svg" /></p>
--->
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/JairClass/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
