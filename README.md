@@ -19,7 +19,7 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 📚 Coloco em prática meu conhecimento em projetos e estou ansioso para buscar minha primeira oportunidade no mercado de trabalho na área de Desenvolvimento Front-End. Aprimorando minha proficiência em tecnologias como JavaScript e React.js. Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💼 Onde me encontrar: ⤵️
 </p>
 
 <p align="left">
@@ -27,10 +27,10 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://j.willianclass02@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/jair-willian-class-0706441a1" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jair-willian-class-0706441a1" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5541999205844&text=" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541999205844&text=" alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/jairzera7/"" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jairzera7/"" alt="Instagram"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5541999205844&text=" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541999205844&text=" alt="WhatsApp"/></a>
 </p>
 
 </br>
@@ -226,16 +226,6 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 </br></br></br>
 <hr/>
 
-
-<h1 align="center"> Social </h1>
-<p align="center">
-    <a href="https://j.willianclass02@gmail.com"><img <img height="40px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send?phone=5541999205844&text="> <img <img height="40px"src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-    <a href="https://www.linkedin.com/in/jair-willian-class-0706441a1" target="_blank"><img <img height="40px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://www.instagram.com/jairzera7/" target="_blank"><img <img height="40px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-</p>
-<hr/>
 
 ### 🏆 GitHub Profile Trophy
 
