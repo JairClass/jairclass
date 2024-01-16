@@ -1,25 +1,26 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Hello,+my+name+is+Jair!;I'm+20+years+old.;I'm+from+Curitiba,+PR.;I'm+study+Front-end+Engineering+at+EBAC;And+Analysis+and+Systems+Development+at+UniCuritiba.;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Jair.;Tenho+20+anos.;Sou+de+Curitiba,+PR.;Sou+desenvolvedor+Front-end.;Estudo+Engenharia+de+Front-end+na+EBAC;e+Análise+e+Desenvolvimento+de+Sistemas+na+UniCuritiba.;Bem-vindo+ao+meu+perfil!;+%3A)](https://git.io/typing-svg)
+</br>
 </br>
  <hr>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+ 
 
 <h1 align="center"> Sobre Mim </h1>
-
 ✌️ Hello World!
 
 👥 Sobre Mim:
 Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Front-end em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. Participante da 2ª Edição do programa Santander Coders 2023, também estou cursando WordPress e Engenharia de Front-end na EBAC, Full-Stack Master na Danki Code e Formação Front-end na Udemy. Além disso, estudo inglês na Yazigi e atuo como Técnico de Suporte ao Usuário de T.I. na Mili S/A.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 💘 Apaixonado por tecnologia desde sempre, percebo seu impacto inestimável em todos os aspectos da sociedade moderna. Motivado pela aceleração da transformação digital durante a pandemia, iniciei meus estudos em programação em 2021. Encontrei nela a maneira que sempre procurei para contribuir com o avanço da tecnologia e, consequentemente, agregar valor à vida das pessoas com meu trabalho.
 
 📚 Coloco em prática meu conhecimento em projetos e estou ansioso para buscar minha primeira oportunidade no mercado de trabalho na área de Desenvolvimento Front-End. Aprimorando minha proficiência em tecnologias como JavaScript e React.js. Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
 
 <p align="left">
-  💼 Onde me encontrar: ⤵️
+  ✉️ Para mais informações ou para uma conversa, não hesite em me enviar mensagem: ⤵️
 </p>
 
 <p align="left">
@@ -32,7 +33,6 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
   <a href="https://api.whatsapp.com/send?phone=5541999205844&text=" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541999205844&text=" alt="WhatsApp"/></a>
 </p>
-
 </br>
 
 
@@ -212,30 +212,26 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
   <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairClass&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
-    
-  <div align="center">
+
+<!--
+ <div align="center">
  <a href="https://git.io/streak-stats">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=jairclass&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak"/>
  </a>
 <br/><br/>
+-->
 
-
-
-<h1 align="center"> Atividade </h1>
+<br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JairClass&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
 </br></br></br>
 <hr/>
 
 
-### 🏆 GitHub Profile Trophy
+<h1 align="center"> 🏆 GitHub Profile Trophy </h1>
 
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
+    <img width="1000"
       src="https://github-profile-trophy.vercel.app/?username=JairClass&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
@@ -243,9 +239,8 @@ Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+<h1 align="center"> 📍 Profile Visitor Count </h1>
+
 
 <p align="center">
   <img
