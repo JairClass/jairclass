@@ -11,7 +11,7 @@
 ✌️ Hello World!
 
 👥 Sobre Mim:
-Meu nome é Jair, tenho 20 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Front-end em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. Participante da 2ª Edição do programa Santander Coders 2023, também estou cursando WordPress e Engenharia de Front-end na EBAC, Full-Stack Master na Danki Code e Formação Front-end na Udemy. Além disso, estudo inglês na Yazigi e atuo como Técnico de Suporte ao Usuário de T.I. na Mili S/A.
+Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Front-end em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. Participante da 2ª Edição do programa Santander Coders 2023, também estou cursando WordPress e Engenharia de Front-end na EBAC, Full-Stack Master na Danki Code e Formação Front-end na Udemy. Além disso, estudo inglês na Yazigi e atuo como Técnico de Suporte ao Usuário de T.I. na Mili S/A.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
