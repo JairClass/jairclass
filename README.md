@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Jair.;Tenho+20+anos.;Sou+de+Curitiba,+PR.;Sou+desenvolvedor+Front-end.;Estudo+Engenharia+de+Front-end+na+EBAC;e+Análise+e+Desenvolvimento+de+Sistemas+na+UniCuritiba.;Bem-vindo+ao+meu+perfil!;+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Jair.;Tenho+21+anos.;Sou+de+Curitiba,+PR.;Bem-vindo+ao+meu+perfil!;+%3A)](https://git.io/typing-svg)
 </br>
 </br>
  <hr>
@@ -11,13 +11,13 @@
 ✌️ Hello World!
 
 👥 Sobre Mim:
-Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Front-end em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. Participante da 2ª Edição do programa Santander Coders 2023, também estou cursando WordPress e Engenharia de Front-end na EBAC, Full-Stack Master na Danki Code e Formação Front-end na Udemy. Além disso, estudo inglês na Yazigi e atuo como Técnico de Suporte ao Usuário de T.I. na Mili S/A.
+Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Full-Stack em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 💘 Apaixonado por tecnologia desde sempre, percebo seu impacto inestimável em todos os aspectos da sociedade moderna. Motivado pela aceleração da transformação digital durante a pandemia, iniciei meus estudos em programação em 2021. Encontrei nela a maneira que sempre procurei para contribuir com o avanço da tecnologia e, consequentemente, agregar valor à vida das pessoas com meu trabalho.
 
-📚 Coloco em prática meu conhecimento em projetos e estou ansioso para buscar minha primeira oportunidade no mercado de trabalho na área de Desenvolvimento Front-End. Aprimorando minha proficiência em tecnologias como JavaScript e React.js. Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
+📚 Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
 
 <p align="left">
   ✉️ Para mais informações ou para uma conversa, não hesite em me enviar mensagem: ⤵️
@@ -30,8 +30,6 @@ Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jair-willian-class-0706441a1" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/jairzera7/"" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jairzera7/"" alt="Instagram"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5541999205844&text=" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541999205844&text=" alt="WhatsApp"/></a>
 </p>
 </br>
 
@@ -39,9 +37,7 @@ Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 <hr/>
 <h1 align="center">Estudando Agora</h1>
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"></a>
-  <a href="https://react.dev/"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"></a>
-  <a href="https://wordpress.com/pt-br/"> <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"></a>
+  <a href="https://wordpress.com/pt-br/"> <img src="https://skillicons.dev/icons?i=java" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"></a>
 </div>
 
 
@@ -68,22 +64,22 @@ Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
         </sub>
       </a>
     </td>
-      <td align="center">
-      <a href="https://sass-lang.com/">
-        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="figma code icon"/><br/>
-        <sub>
-          <b>
-            <pre>SASS</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
      <td align="center">
       <a href="https://getbootstrap.com/">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="CSS3 icon"/><br/>
         <sub>
           <b>
             <pre>Bootstrap</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
           </b>
         </sub>
       </a>
@@ -99,56 +95,6 @@ Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
       </a>
    </td>   
    </tr>
-      <td align="center">
-      <a href="https://jquery.com/">
-        <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="jquery icon"/><br/>
-        <sub>
-          <b>
-            <pre>Jquery</pre>
-          </b>
-        </sub>
-      </a>
-      </td>
-      <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Typescript</pre>
-          </b>
-        </sub>
-      </a>
-      </td>
-     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Javascript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-      <td align="center">
-      <a href="https://react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="react icon"/><br/>
-        <sub>
-          <b>
-            <pre>React</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="bash icon"/><br/>
-        <sub>
-          <b>
-            <pre>NodeJS</pre>
-          </b>
-        </sub>
-      </a>
-  </tr>
       <td align="center">
       <a href="https://git-scm.com/">
         <img src="https://skillicons.dev/icons?i=git" width="65px" alt="git code icon"/><br/>
