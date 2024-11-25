@@ -168,7 +168,7 @@ Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolve
 -->
 
 <br>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JairClass&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jairclass&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
 </br></br></br>
 <hr/>
 
