@@ -10,17 +10,17 @@
 <h1 align="center"> Sobre Mim </h1>
 ✌️ Hello World!
 <br></br>
-Sou Jair, 21 anos, de Curitiba/PR. Estou me especializando como Desenvolvedor de Software com foco em Back-End, enquanto curso Análise e Desenvolvimento de Sistemas na Unicuritiba.
-</br></br>
-Sobre Mim 🚀</br>
-Minha paixão pela tecnologia começou em 2021, quando decidi que queria criar soluções que fizessem a diferença no dia a dia das pessoas. Desde então, tenho focado em aprimorar minhas habilidades em programação e desenvolvimento de software, especialmente em criar sistemas eficientes, limpos e escaláveis.
-</br></br>
-Adoro descobrir coisas novas, encarar desafios e trabalhar em equipe para encontrar soluções que realmente funcionem. Para mim, desenvolvimento de software não é só sobre escrever código, mas sobre colaborar com pessoas, criar valor de verdade e causar um impacto positivo no que faço.
+Sou Jair, 21 anos, de Curitiba/PR, em formação como Desenvolvedor de Software com foco em Back-End, enquanto curso Análise e Desenvolvimento de Sistemas na Unicuritiba.
+<br></br>
+🚀 Minha jornada na tecnologia começou em 2021, motivada pela vontade de criar soluções que realmente façam diferença no dia a dia. Desde então, dedico-me a desenvolver sistemas eficientes, limpos e escaláveis, sempre buscando aprender e evoluir.
+<br></br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Filosofia de Trabalho 💡</br>
-Gosto de trabalhar com foco em resultados, mas sem abrir mão de escrever um código limpo e fácil de entender. Sempre busco aprender algo novo a cada projeto e adoro contribuir com ideias que tornem os sistemas mais simples e eficientes.
+💡 Filosofia de Trabalho:
+Acredito que desenvolvimento vai além de código. É sobre colaborar, criar valor e gerar impacto positivo. Meu foco é entregar resultados com qualidade, utilizando práticas como Clean Code e soluções simples e funcionais.
+<br></br>
+📚 Sempre disposto a encarar desafios e aprender algo novo, tenho paixão por colaborar em equipe para resolver problemas e criar projetos que realmente façam a diferença.
 
 <p align="left">
   ✉️ Para mais informações ou para uma conversa, não hesite em me enviar mensagem: ⤵️
@@ -40,7 +40,15 @@ Gosto de trabalhar com foco em resultados, mas sem abrir mão de escrever um có
 <hr/>
 <h1 align="center">Estudando Agora</h1>
 <div align="center">
-  <a href="https://wordpress.com/pt-br/"> <img src="https://skillicons.dev/icons?i=java" alt="icon" width: 65px; style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"></a>
+  <a href="https://wordpress.com/pt-br/">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 65px; height: 65px; margin-right: 20px;">
+  </a>
+  <a href="https://wordpress.com/pt-br/">
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" style="width: 65px; height: 65px; margin-right: 20px;">
+  </a>
+  <a href="https://wordpress.com/pt-br/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" style="width: 65px; height: 65px;">
+  </a>
 </div>
 
 
@@ -77,16 +85,6 @@ Gosto de trabalhar com foco em resultados, mas sem abrir mão de escrever um có
         </sub>
       </a>
     </td>
-      <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Javascript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
      <td align="center">
       <a href="https://wordpress.com/pt-br/">
         <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="angular icon"/><br/>
@@ -119,14 +117,10 @@ Gosto de trabalhar com foco em resultados, mas sem abrir mão de escrever um có
       </a>
     </td>
       </td>
-   <td align="center">
-      <a href="https://figma.com/">
-        <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="figma code icon"/><br/>
-        <sub>
-          <b>
-            <pre>Figma</pre>
-          </b>
-        </sub>
+     <td align="center">
+      <a href="https://www.eclipse.org/">
+        <img src="https://skillicons.dev/icons?i=eclipse" width="65px" alt="Eclipse icon"/><br/>
+        <sub><b><pre>Eclipse</pre></b></sub>
       </a>
     </td>
   <td align="center">
@@ -139,16 +133,6 @@ Gosto de trabalhar com foco em resultados, mas sem abrir mão de escrever um có
         </sub>
       </a>
     </td>  
-  <td align="center">
-      <a href="https://ohmyz.sh/">
-        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
-        <sub>
-          <b>
-            <pre>Terminal</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
 </table>
 <br/>
 <hr/>
@@ -161,6 +145,7 @@ Gosto de trabalhar com foco em resultados, mas sem abrir mão de escrever um có
   <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairClass&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
+<hr/>
 
 <!--
  <div align="center">
@@ -168,13 +153,14 @@ Gosto de trabalhar com foco em resultados, mas sem abrir mão de escrever um có
  <img src="https://github-readme-streak-stats.herokuapp.com?user=jairclass&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak"/>
  </a>
 <br/><br/>
--->
 
+
+<!--
 <br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jairclass&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
 </br></br></br>
 <hr/>
-
+-->
 
 <h1 align="center"> 🏆 GitHub Profile Trophy </h1>
 
