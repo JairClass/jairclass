@@ -10,14 +10,17 @@
 <h1 align="center"> Sobre Mim </h1>
 ✌️ Hello World!
 <br></br>
-👥 Sobre Mim:
-Meu nome é Jair, tenho 21 anos e sou de Curitiba/PR. Atualmente, sou Desenvolvedor Full-Stack em formação e graduando em Análise e Desenvolvimento de Sistemas pela Unicuritiba. 
+Sou Jair, 21 anos, de Curitiba/PR. Estou me especializando como Desenvolvedor de Software com foco em Back-End, enquanto curso Análise e Desenvolvimento de Sistemas na Unicuritiba.
+</br></br>
+Sobre Mim 🚀</br>
+Minha paixão pela tecnologia começou em 2021, quando decidi que queria criar soluções que fizessem a diferença no dia a dia das pessoas. Desde então, tenho focado em aprimorar minhas habilidades em programação e desenvolvimento de software, especialmente em criar sistemas eficientes, limpos e escaláveis.
+</br></br>
+Adoro descobrir coisas novas, encarar desafios e trabalhar em equipe para encontrar soluções que realmente funcionem. Para mim, desenvolvimento de software não é só sobre escrever código, mas sobre colaborar com pessoas, criar valor de verdade e causar um impacto positivo no que faço.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-💘 Apaixonado por tecnologia desde sempre, percebo seu impacto inestimável em todos os aspectos da sociedade moderna. Motivado pela aceleração da transformação digital durante a pandemia, iniciei meus estudos em programação em 2021. Encontrei nela a maneira que sempre procurei para contribuir com o avanço da tecnologia e, consequentemente, agregar valor à vida das pessoas com meu trabalho.
-
-📚 Considero-me ágil e consistente ao aprender novas tecnologias, com alta capacidade de adaptação às mudanças. Estou pronto para enfrentar e superar qualquer desafio!
+Filosofia de Trabalho 💡</br>
+Gosto de trabalhar com foco em resultados, mas sem abrir mão de escrever um código limpo e fácil de entender. Sempre busco aprender algo novo a cada projeto e adoro contribuir com ideias que tornem os sistemas mais simples e eficientes.
 
 <p align="left">
   ✉️ Para mais informações ou para uma conversa, não hesite em me enviar mensagem: ⤵️
