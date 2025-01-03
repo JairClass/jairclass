@@ -10,17 +10,21 @@
 <h1 align="center"> Sobre Mim </h1>
 ✌️ Hello World!
 <br></br>
+
 Sou Jair, 21 anos, de Curitiba/PR, em formação como Desenvolvedor de Software com foco em Back-End, enquanto curso Análise e Desenvolvimento de Sistemas na Unicuritiba.
-<br></br>
+<br>
+
 🚀 Minha jornada na tecnologia começou em 2021, motivada pela vontade de criar soluções que realmente façam diferença no dia a dia. Desde então, dedico-me a desenvolver sistemas eficientes, limpos e escaláveis, sempre buscando aprender e evoluir.
-<br></br>
+<br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 💡 Filosofia de Trabalho:
 Acredito que desenvolvimento vai além de código. É sobre colaborar, criar valor e gerar impacto positivo. Meu foco é entregar resultados com qualidade, utilizando práticas como Clean Code e soluções simples e funcionais.
-<br></br>
+<br>
+
 📚 Sempre disposto a encarar desafios e aprender algo novo, tenho paixão por colaborar em equipe para resolver problemas e criar projetos que realmente façam a diferença.
+<br>
 
 <p align="left">
   ✉️ Para mais informações ou para uma conversa, não hesite em me enviar mensagem: ⤵️
