@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Jair.;Tenho+21+anos.;Sou+de+Curitiba,+PR.;Bem-vindo+ao+meu+perfil!;+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=bf91f3&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Jair.;Tenho+22+anos.;Sou+de+Curitiba,+PR.;Bem-vindo+ao+meu+perfil!;+%3A)](https://git.io/typing-svg)
 </br>
 </br>
  <hr>
