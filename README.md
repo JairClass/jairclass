@@ -11,7 +11,7 @@
 ✌️ Hello World!
 <br></br>
 
-Sou Jair, 21 anos, de Curitiba/PR, em formação como Desenvolvedor de Software com foco em Back-End, enquanto curso Análise e Desenvolvimento de Sistemas na Unicuritiba.
+Sou Jair, 22 anos, de Curitiba/PR, em formação como Desenvolvedor de Software com foco em Back-End, enquanto curso Análise e Desenvolvimento de Sistemas na Unicuritiba.
 <br>
 
 🚀 Minha jornada na tecnologia começou em 2021, motivada pela vontade de criar soluções que realmente façam diferença no dia a dia. Desde então, dedico-me a desenvolver sistemas eficientes, limpos e escaláveis, sempre buscando aprender e evoluir.
@@ -145,8 +145,8 @@ Acredito que desenvolvimento vai além de código. É sobre colaborar, criar val
 <h1 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
 
 <p align="center">
-  <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=JairClass&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/> 
-  <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairClass&layout=compact&langs_count=16&theme=dark"/>
+  <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=jairClass&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/> 
+  <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairClass&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 <hr/>
