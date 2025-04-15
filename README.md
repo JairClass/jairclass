@@ -27,7 +27,7 @@
 ## 🚀 Um pouco mais sobre mim... em código Java:
 
 ```java
-public class JairWillianClass
+public class Jair
 {
     private String ocupacao = "Desenvolvedor de Sistemas na Mili S/A";
     private String formacao = "Análise e Desenvolvimento de Sistemas - UniCuritiba";
