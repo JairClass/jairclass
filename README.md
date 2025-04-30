@@ -37,7 +37,7 @@ public class Jair
     private String foco = "Back-End Java";
 
     private List<String> stack = List.of(
-        "Java", "Spring", "SQL", "Git"
+        "Java", "Spring Boot", "SQL", "Git"
     );
 
     public boolean buscaConstantePorMelhoria()
