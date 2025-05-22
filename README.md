@@ -36,9 +36,7 @@ public class Jair
     private String formacao = "Análise e Desenvolvimento de Sistemas - UniCuritiba";
     private String foco = "Back-End Java";
 
-    private List<String> stack = List.of(
-        "Java", "Spring Boot", "SQL", "Git"
-    );
+    private List<String> stack = List.of("Java", "Spring Boot", "SQL", "Git");
 
     public boolean buscaConstantePorMelhoria()
     {
