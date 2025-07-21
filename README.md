@@ -10,7 +10,7 @@
 
 <p align="center">
   Atualmente <strong>Desenvolvedor de Sistemas na <a href="https://www.mili.com.br/">Mili S/A</a></strong><br>
-  Formando em <strong>Análise e Desenvolvimento de Sistemas pela <a href="https://www.unicuritiba.edu.br">UniCuritiba</a></strong><br>
+  Formado em <strong>Análise e Desenvolvimento de Sistemas pela <a href="https://www.unicuritiba.edu.br">UniCuritiba</a></strong><br>
 </p>
 
 <p align="center">
@@ -55,6 +55,8 @@ public class Jair
 
 ---
 
+<!--
 <p align="center">
   <img src="https://profile-counter.glitch.me/JairClass/count.svg" alt="Visitantes" />
 </p>
+-->
