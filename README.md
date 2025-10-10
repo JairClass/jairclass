@@ -34,7 +34,7 @@ public class Jair
 {
     private String ocupacao = "Desenvolvedor de Sistemas na Mili S/A";
     private String formacao = "Análise e Desenvolvimento de Sistemas - UniCuritiba";
-    private String foco = "Back-end Java";
+    private String foco = "Back-end Java e Mobile (Android) Kotlin";
 
     private List<String> stack = List.of("Java", "Kotlin", "Spring Boot", "SQL", "Git");
 
